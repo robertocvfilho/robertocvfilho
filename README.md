@@ -20,7 +20,7 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 Cursos e Certificações
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
