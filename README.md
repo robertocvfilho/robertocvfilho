@@ -4,7 +4,7 @@
 <div>
   <p>
     Sou Desenvolvedor Web, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI e tenho conhecimentos em HTML, CSS, Javascript, NodeJS, MySQL, Git/GitHub. Sou uma pessoa muito ativa, responsável e estudiosa. Gosto de sempre me atualizar perante o mercado e tenho foco em me tornar um Desenvolvedor FullStack.
-    Estou atualmente estudando React, ReactNative e NodeJS, todos os estudos estão sendo feitos dentro da plataforma da Rocketseat.
+    Estou atualmente estudando React, ReactNative e NodeJS.
   </p>
 </div>
 
