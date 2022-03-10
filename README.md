@@ -24,7 +24,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-🏅  |  |  |
+🏅 Discover | Rocketseat | 2022 | Curso
 
 ## 🌐 Minhas Redes Sociais
   
