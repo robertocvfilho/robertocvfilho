@@ -25,6 +25,7 @@
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
 🏅 Discover | Rocketseat | 2022 | Curso
+🏅 Informática Básica | UNIASSELVI | 2022 | Certificado
 
 ## 🌐 Minhas Redes Sociais
   
