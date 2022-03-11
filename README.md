@@ -26,6 +26,7 @@ Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
 🏅 Discover | Rocketseat | 2022 | Curso
 🏅 Informática Básica | UNIASSELVI | 2022 | Certificado
+🏅 Montagem e Manutenção de Computadores | ELITE TREINAMENTOS | 2021 | Certificado
 
 ## 🌐 Minhas Redes Sociais
   
