@@ -22,7 +22,7 @@
 
 ## 🏆 Cursos e Certificações
 
-Descrição   | Instituição   | Ano | Tipo | Tempo
+Descrição   | Instituição   | Ano | Tipo 
 --------- | --------- | ------ | ------
 🏅 Discover | Rocketseat | 2022 | Curso | 
 🏅 Informática Básica | Uniasselvi | 2022 | Certificado | 
