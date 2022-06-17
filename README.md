@@ -26,6 +26,8 @@ Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
 🏅 Discover | Rocketseat | 2022 | Curso | 
 🏅 Informática Básica | Uniasselvi | 2022 | Certificado | 
+🏅 Redes de Computadores e Roteador Wifi Básico | Udemy | 2022 | Certificado | 
+🏅 Microsoft Windows Server 2012 R2 | Portal Hugo Cursos | 2021 | Certificado | 
 🏅 Montagem e Manutenção de Computadores | Elite Treinamentos | 2021 | Certificado | 
 
 
