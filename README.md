@@ -1,6 +1,6 @@
 ### Hello, this is my github profile. My Name's Roberto and I'm Web Developer! 👋
 
-## 🧑🏽‍💻 Um pouco sobre mim!
+## 🧑🏽‍💻 A little about myself!
 <div>
   <p>
     Sou Desenvolvedor Web, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI e tenho conhecimentos em HTML, CSS, Javascript, NodeJS, MySQL, Git/GitHub. Sou uma pessoa muito ativa, responsável e estudiosa. Gosto de sempre me atualizar perante o mercado e tenho foco em me tornar um Desenvolvedor FullStack.
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-## 🚀 Minhas Tecnologias!  
+## 🚀 My Tecnologys!  
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </div><br>
 
-## 🏆 Cursos e Certificações!
+## 🏆 Courses and Certifications!
 
 Descrição   | Instituição   | Ano | Tipo 
 --------- | --------- | ------ | ------
@@ -31,13 +31,13 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 Montagem e Manutenção de Computadores | Elite Treinamentos | 2021 | Certificado | 
 
 
-## 🌐 Minhas Redes Sociais!
+## 🌐 My Social Networks!
   
 <div> 
   <a href="https://www.instagram.com/rvfcodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## ⚙️ Estatísticas do GitHub!
+## ⚙️ Github Stats!
 
 <div align="center">
   <a href="https://github.com/robertocvfilho">
