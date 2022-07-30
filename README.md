@@ -3,8 +3,8 @@
 ## 🧑🏽‍💻 A little about myself!
 <div>
   <p>
-    Sou Desenvolvedor Web, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI e tenho conhecimentos em HTML, CSS, Javascript, NodeJS, MySQL, Git/GitHub. Sou uma pessoa muito ativa, responsável e estudiosa. Gosto de sempre me atualizar perante o mercado e tenho foco em me tornar um Desenvolvedor FullStack.
-    Estou atualmente estudando React, ReactNative e NodeJS.
+    I'm a Web Developer, currently studying Systems Analysis and Development at UNIASSELVI and I have knowledge in HTML, CSS, Javascript, NodeJS, MySQL, Git/GitHub. I'm a very active, responsible and studious person. I like to always update myself with the market and I focus on becoming a FullStack developer.
+    I'm currently studying React, ReactNative and NodeJS.
   </p>
 </div>
 
