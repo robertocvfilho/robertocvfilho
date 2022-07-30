@@ -1,4 +1,4 @@
-### Olá, seja-bem-vindo ao meu repositório. Meu nome é Roberto e sou Desenvolvedor Web! 👋
+### Hello, this is my github profile. My Name's Roberto and I'm Web Developer! 👋
 
 ## 🧑🏽‍💻 Um pouco sobre mim!
 <div>
